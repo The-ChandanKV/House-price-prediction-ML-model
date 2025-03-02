@@ -24,7 +24,11 @@ House_Price_Prediction/
 
 ## 💡 Features
 ✔️ Loads the California Housing Dataset using fetch_california_housing
+
 ✔️ Performs Exploratory Data Analysis (EDA) with correlation heatmaps 📊
+
 ✔️ Splits the data into training and testing sets
+
 ✔️ Trains an XGBoost Regressor Model for accurate price prediction 🚀
+
 ✔️ Evaluates model performance using MAE & R² Score 📉
