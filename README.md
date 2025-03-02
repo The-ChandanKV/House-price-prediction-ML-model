@@ -14,11 +14,15 @@ This project builds a machine learning model to predict house prices based on th
 ---
 
 ## 📂 Project Structure
-House_Price_Prediction/
-- **House_price_prediction.ipynb->**  # Jupyter Notebook with code  
-- **data/->**                          # Contains dataset (if stored separately)  
-- **models/->**                        # Saved trained model (if needed)  
-- **requirements.txt->**                # Dependencies
+📂 House_Price_Prediction/
+
+│── 📜 House_price_prediction.ipynb   # Jupyter Notebook with code  
+
+│── 📂 data/                           # Contains dataset (if stored separately)  
+
+│── 📂 models/                         # Saved trained model (if needed)  
+
+│── 📜 requirements.txt                # Dependencies  
 
 ---
 
